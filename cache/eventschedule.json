@@ -1,0 +1,27 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "aproveite subir seus skills evento de 50% ativo até domingo",
+            "displaypriority": 6,
+            "enddate": 1650510000,
+            "isseasonal": false,
+            "name": "Evento de SKILL",
+            "specialevent": 0,
+            "startdate": 1713409200
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Otserver br example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "displaypriority": 6,
+            "enddate": 1703991600,
+            "isseasonal": false,
+            "name": "Otservbr example 2",
+            "specialevent": 0,
+            "startdate": 1643770800
+        }
+    ],
+    "lastupdatetimestamp": 1747243165
+}
